@@ -1,4 +1,4 @@
-# PCA_Theory
+# PCA Theory
 A theoretical perspective to PCA and how to manually apply it to images.
 
 A simple implementation of PCA. We first create a set of images by iteratively rotating an image. We compute the covariance matrix 
